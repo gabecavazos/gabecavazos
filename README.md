@@ -31,38 +31,13 @@ This README.md file is my GitHub profile
 </head>
 
 
-<!--- Snapshot of Events -->
+<!--- At A Glance -->
 - 8+ year Data Analyst
 - Served in the **U.S. Army** as an Intelligence Analyst
 - Speaker at US Army Software Factory
-- Comedian, Producer, Entrepreur 
+- Comedian, Producer, Entrepreneur 
 - 📫 Reach me at **gabecavazos3@gmail.com**
 
-
-<!--- My Websites -->
-<head>
-    <h3 align="left">
-        My Websites:
-    </h3>
-</head>
-
-<body>
-    <p align="left">
-        <a href="https://www.enduringwriter.com" target="blank">
-        <img align="center" src="https://static.wixstatic.com/media/076b99_b08fce0a88f04c25b48afa89f780cecd~mv2.png" alt="Enduring Writer" style="object-fit:contain; width:50px; height:50px;"/>
-        </a>
-        &nbsp;
-        <a href="https://www.singfighter.com" target="blank">
-        <img align="center" src="https://static.wixstatic.com/media/076b99_b626ee29d9504784a7ae48ec364a4aac~mv2.png" alt="Sing Fighter" style="object-fit:scale-contain; width:40px; height:40px;"/>
-        </a>
-    </p>
-</body>
-
-
-<!--- Social Networks - Connect with me -->
-<head>
-    <h3 align="left">Connect with me:</h3>
-</head>
 
 
 <!--- Technical Skills - Languages and Tools -->
