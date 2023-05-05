@@ -13,10 +13,10 @@ This README.md file is my GitHub profile
     <meta charset="UTF-8">
     <meta name="description" content="GitHub Profile README.MD">
     <meta name="keywords" content="GitHub, Profile, Bio, Snapshot, Summary, Readme">
-    <meta name="author" content="Keith Stateson, Enduring Writer, Sing Fighter">
+    <meta name="author" content="Gabe Cavazos">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <h1 align="center">
-        Gabe Cavazos <br> from Texas, USA 🇺🇸
+        Gabe Cavazos <br> from Austin, Texas
     </h1>
 </head>
 
@@ -32,11 +32,11 @@ This README.md file is my GitHub profile
 
 
 <!--- Snapshot of Events -->
-- Data Science program just began on 17Jan2023! and am ready to begin collaborating on projects
-- Served in the **U.S. Army** in logistics, public affairs, media, and chemical
-- Graduated with a B.Sc. in **Chemistry** from Texas A&M University
-- Graduated with a B.Sc. in **Integrative Studies** from University of North Texas
-- 📫 Reach me at **keith.stateson@gmail.com**
+- 8+ year Data Analyst
+- Served in the **U.S. Army** as an Intelligence Analyst
+- Speaker at US Army Software Factory
+- Comedian, Producer, Entrepreur 
+- 📫 Reach me at **gabecavazos3@gmail.com**
 
 
 <!--- My Websites -->
@@ -63,26 +63,6 @@ This README.md file is my GitHub profile
 <head>
     <h3 align="left">Connect with me:</h3>
 </head>
-
-<body>
-    <p align="left">
-        <a href="https://www.linkedin.com/in/gabe-cavazos" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" alt="Keith Stateson" height="40" width="40"/>
-        </a>
-        &nbsp;
-        <a href="https://youtu.be/rBRtNWWkKtQ" target="blank">
-        <img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/youtube.png" alt="Keith Stateson" height="40" width="40"/>
-        </a>
-        &nbsp;
-        <a href="https://twitter.com/topochicano" target="blank">
-        <img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/twitter.png" alt="Keith Stateson" height="40" width="40"/>
-        </a>
-        &nbsp;
-        <a href="https://stackoverflow.com/users/20429461/gabecavazos" target="blank">
-        <img align="center" src="https://github.com/enduringwriter/enduringwriter/blob/3f9d5db1fb06f3034969743d7d044fffd958cbfd/icons_for_my_github_profile/stackoverflow.png" alt="Keith Stateson" height="40" width="40"/>
-        </a>
-    </p>
-</body>
 
 
 <!--- Technical Skills - Languages and Tools -->
